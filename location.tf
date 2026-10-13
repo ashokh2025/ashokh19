@@ -1,1 +1,1 @@
-location = "centralus"
+location = "westus2"
